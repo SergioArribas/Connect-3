@@ -15,15 +15,11 @@ A simple implementation of the classic **Connect 3** game using **React**.
 3. The first player to connect three tokens horizontally, vertically, or diagonally wins.
 4. After a game finishes, the win counter is updated, and players can reset the game or the win counter.
 
-## Installation
+## Technologies Used
+1. React
+2. TypeScript
+3.  CSS for styling
 
-1. Clone the repository to your local machine:
 
-   ```bash
-   git clone https://github.com/SergioArribas/Connect-3.git
 
-   Technologies Used
-
-    React
-    TypeScript
-    CSS for styling
+  
