@@ -1,9 +1,9 @@
-# Connect 4 Game
+# Connect 3 Game
 
-A simple implementation of the classic **Connect 4** game using **React**.
+A simple implementation of the classic **Connect 3** game using **React**.
 
 ## Features
-- 7x6 game board
+- 3x3 game board
 - Red and Yellow player tokens
 - Turns alternate between Red and Yellow players
 - Track the number of games won by each player
